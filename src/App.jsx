@@ -12,7 +12,7 @@ function App() {
       <h5>Greatness is a programmer</h5>
       <h6>Greatness is a programmer</h6>
 
-      
+      <p><i>Italic is here</i></p>
       <p>To close a window, press <kbd>ALT + F4</kbd></p>
     </>
   )
